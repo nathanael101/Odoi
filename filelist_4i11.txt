@@ -1,0 +1,9 @@
+C:\Users\odoi_n\Desktop\SRC\wrapper_bg.png
+C:\Users\odoi_n\Desktop\SRC\wrapper_simple_bg.png
+C:\Users\odoi_n\Desktop\SRC\ebab_mb4i11.png
+C:\Users\odoi_n\Desktop\SRC\ebab_mb4i11_d.png
+C:\Users\odoi_n\Desktop\SRC\ebab_mb4i11_c.png
+C:\Users\odoi_n\Desktop\SRC\ebab_mb4i11_c2.png
+C:\Users\odoi_n\Desktop\SRC\mbjsmb4i11.js
+C:\Users\odoi_n\Desktop\SRC\mbcsmb4i11.css
+C:\Users\odoi_n\Desktop\SRC\filelist_4i11.txt
